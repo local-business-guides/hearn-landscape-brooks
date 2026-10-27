@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/hearn-landscape-brooks/sitemap.xml
+Sitemap: https://local-business-guides.github.io/hearn-landscape-brooks/news-sitemap.xml

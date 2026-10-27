@@ -25,6 +25,9 @@
 - [Plan the best landscaping for your Brooks, GA home](https://local-business-guides.github.io/hearn-landscape-brooks/best-landscaping/): Plan the best landscaping for your needs in Brooks, GA, with thoughtful design and practical yard improvements.
 - [Brooks landscaping: a homeowner’s hiring guide](https://local-business-guides.github.io/hearn-landscape-brooks/brooks-landscaping/): Plan Brooks landscaping with clear questions, a practical project checklist and local help in Brooks, GA.
 
+## Newsroom
+- [New Brooks Landscaping Guide Released With Video and Podcast](https://local-business-guides.github.io/hearn-landscape-brooks/news/2026-10-27-new-brooks-landscaping-guide-released-with-video-a/): Hearn Landscape has released a guide about local landscaping in Brooks, along with a YouTube video and a podcast episode. (2026-10-27)
+
 ## Pages
 - [Landscaping Brooks Ga in Georgia](https://local-business-guides.github.io/hearn-landscape-brooks/): Get thoughtful landscape planning and practical yard improvements from a family-owned team serving Brooks, Georgia. Call +1404-738-6867.
 - [About Hearn Landscape](https://local-business-guides.github.io/hearn-landscape-brooks/about/): About Hearn Landscape, Brooks.
@@ -32,3 +35,4 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/hearn-landscape-brooks/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/hearn-landscape-brooks/news/rss.xml)
