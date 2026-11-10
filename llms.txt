@@ -14,18 +14,19 @@
 - Sod supplier
 
 ## Guides
-- [Find a landscape designer Brooks homeowners can talk with](https://local-business-guides.github.io/hearn-landscape-brooks/landscape-designer-brooks/): Plan a practical outdoor layout with a landscape designer Brooks homeowners can consult for their property.
+- [A landscaper grass Brooks homeowners can call about sod](https://local-business-guides.github.io/hearn-landscape-brooks/landscaper-grass-brooks/): Get a lawn plan with a landscaper grass Brooks homeowners can contact for sod installation and careful site preparation.
 - [Planning Landscaping Brooks ga homeowners can enjoy](https://local-business-guides.github.io/hearn-landscape-brooks/landscaping-brooks-ga/): Landscaping Brooks ga homeowners can shape around outdoor living, with local help in Brooks, GA.
 - [Choosing a local landscaper Brooks homeowners can talk to](https://local-business-guides.github.io/hearn-landscape-brooks/local-landscaper-brooks/): Local landscaper Brooks homeowners can call for thoughtful yard improvements in Brooks, GA.
 - [Landscaper Hardscaper Brooks Homeowners Can Plan With](https://local-business-guides.github.io/hearn-landscape-brooks/landscaper-hardscaper-brooks/): Landscaper hardscaper Brooks homeowners can call for thoughtful yard planning and outdoor improvements in Brooks, GA.
 - [Looking for a Landscaper Near Me in Brooks? Start Here](https://local-business-guides.github.io/hearn-landscape-brooks/landscaper-near-me/): Find a landscaper near me for yard planning and outdoor improvements in Brooks, GA, with one team from estimate to completion.
-- [A landscaper grass Brooks homeowners can call about sod](https://local-business-guides.github.io/hearn-landscape-brooks/landscaper-grass-brooks/): Get a lawn plan with a landscaper grass Brooks homeowners can contact for sod installation and careful site preparation.
+- [Find a landscape designer Brooks homeowners can talk with](https://local-business-guides.github.io/hearn-landscape-brooks/landscape-designer-brooks/): Plan a practical outdoor layout with a landscape designer Brooks homeowners can consult for their property.
 - [Landscaper Brooks for Your Next Yard Project](https://local-business-guides.github.io/hearn-landscape-brooks/landscaper-brooks/): Landscaper Brooks homeowners can turn to for design, sod, drainage and outdoor projects in Brooks, GA.
 - [Planning landscaping in brooks for Your Home](https://local-business-guides.github.io/hearn-landscape-brooks/landscaping-in-brooks/): Plan landscaping in brooks with a practical project sequence, clear priorities and local help in Brooks, GA.
 - [Plan the best landscaping for your Brooks, GA home](https://local-business-guides.github.io/hearn-landscape-brooks/best-landscaping/): Plan the best landscaping for your needs in Brooks, GA, with thoughtful design and practical yard improvements.
 - [Brooks landscaping: a homeowner’s hiring guide](https://local-business-guides.github.io/hearn-landscape-brooks/brooks-landscaping/): Plan Brooks landscaping with clear questions, a practical project checklist and local help in Brooks, GA.
 
 ## Newsroom
+- [Hearn Landscape Shares Guide to Landscaper Grass in Brooks](https://local-business-guides.github.io/hearn-landscape-brooks/news/2026-11-10-hearn-landscape-shares-guide-to-landscaper-grass/): Hearn Landscape has published a guide for Brooks-area homeowners planning grass work, with related video, podcast and audio versions. (2026-11-10)
 - [Brooks Homeowners Can Read Hearn Landscape's New Design Guide](https://local-business-guides.github.io/hearn-landscape-brooks/news/2026-11-10-brooks-homeowners-can-read-hearn-landscape-s-new/): Hearn Landscape Management has released a guide about landscape designer Brooks, along with a YouTube video, podcast episode and SoundCloud audio. (2026-11-10)
 - [Hearn Landscape Shares Resources for a Landscaper Near Me Search](https://local-business-guides.github.io/hearn-landscape-brooks/news/2026-11-03-hearn-landscape-shares-resources-for-a-landscaper/): Hearn Landscape Management has released a guide, video, podcast episode and audio version for homeowners looking for a landscaper near me. (2026-11-03)
 - [Hearn Landscape Releases Guide for Brooks Landscaping Searches](https://local-business-guides.github.io/hearn-landscape-brooks/news/2026-10-31-hearn-landscape-releases-guide-for-brooks/): Hearn Landscape published a guide for Brooks homeowners, with a YouTube video, podcast episode and SoundCloud audio version. (2026-10-31)
@@ -39,4 +40,4 @@
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/hearn-landscape-brooks/sitemap.xml)
 - [News RSS feed](https://local-business-guides.github.io/hearn-landscape-brooks/news/rss.xml)
-- [Main resource site](https://hearn-landscape-brooks-gardens.warmape5.chatgpt.site)
+- [Main resource site](https://hearn-landscape-brooks-gardens.localbusinesses1.chatgpt.site)
